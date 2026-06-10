@@ -1,4 +1,3 @@
-# Adhith-Raghunath-Nair-
 # 👋 Hi, I'm Adhith Raghunath Nair
 
 ### 🚀 Building at the Intersection of AI/ML & Web Development
@@ -12,7 +11,8 @@ I am a passionate **B.Tech CSE Student** at Amity University Mumbai, deeply inve
 
 - 💼 **Current Role:** Front-End Developer Intern at **TIES**, crafting responsive and modern user interfaces.
 - 🛠️ **Core Interests:** AI/ML Integration, Full-Stack Web Dev, Computer Vision, Cybersecurity & Data Science.
-- 🏋️‍♂️ **Beyond Coding:** Passionate about fitness, consistent training, and continuous learning.
+- ⚙️ **Drive:** Passionate about clean code, scalable architecture, and continuous technical deep dives.
+- ⚡ **Fun Fact:** When I'm not coding, you'll probably find me exploring a new API or debugging complex computer vision feeds.
 
 ---
 
