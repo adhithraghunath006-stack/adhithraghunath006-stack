@@ -55,8 +55,8 @@ I am a forward-thinking <b>B.Tech Computer Science Student</b> driven by autonom
 ## 📊 Automated Metrics & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhithraghunath006-stack&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Adhith's Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithraghunath006-stack&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhithraghunath006-stack&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Adhith's Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhithraghunath006-stack&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="49%" />
 </p>
 
 <p align="center">
