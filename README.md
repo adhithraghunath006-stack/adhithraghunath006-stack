@@ -52,7 +52,7 @@ I am a forward-thinking <b>B.Tech Computer Science Student</b> driven by autonom
 
 ---
 
-## 📊 Automated Metrics & Core Stacks
+## 📊 Automated Metrics & GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhithraghunath006-stack&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Adhith's Stats" width="49%" />
